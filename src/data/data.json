@@ -1,0 +1,2921 @@
+
+
+
+    {
+     
+    "Mathematics":{
+      "questions": [
+        
+        {
+          "question": "What is 5 + 3?",
+          "level": "easy",
+          "options": ["6", "7", "8", "9"],
+          "answer": "8"
+        },
+        {
+          "question": "What is 10 - 4?",
+          "level": "easy",
+          "options": ["6", "7", "5", "8"],
+          "answer": "6"
+        },
+        {
+          "question": "What is 7 × 2?",
+          "level": "easy",
+          "options": ["12", "14", "16", "10"],
+          "answer": "14"
+        },
+        {
+          "question": "What is 18 ÷ 3?",
+          "level": "easy",
+          "options": ["6", "5", "7", "8"],
+          "answer": "6"
+        },
+        {
+          "question": "What is the square of 4?",
+          "level": "easy",
+          "options": ["8", "12", "16", "20"],
+          "answer": "16"
+        },
+        {
+          "question": "What is 9 + 6?",
+          "level": "easy",
+          "options": ["13", "14", "15", "16"],
+          "answer": "15"
+        },
+        {
+          "question": "What is 15 - 9?",
+          "level": "easy",
+          "options": ["4", "5", "6", "7"],
+          "answer": "6"
+        },
+        {
+          "question": "What is 3 × 5?",
+          "level": "easy",
+          "options": ["15", "20", "10", "13"],
+          "answer": "15"
+        },
+        {
+          "question": "What is half of 20?",
+          "level": "easy",
+          "options": ["10", "8", "12", "14"],
+          "answer": "10"
+        },
+        {
+          "question": "What is 7 + 7?",
+          "level": "easy",
+          "options": ["12", "14", "16", "13"],
+          "answer": "14"
+        },
+    
+        
+        {
+          "question": "What is the value of 3² + 4²?",
+          "level": "medium",
+          "options": ["25", "24", "20", "29"],
+          "answer": "25"
+        },
+        {
+          "question": "Solve for x: 5x = 35",
+          "level": "medium",
+          "options": ["5", "6", "7", "8"],
+          "answer": "7"
+        },
+        {
+          "question": "What is the square root of 81?",
+          "level": "medium",
+          "options": ["7", "8", "9", "10"],
+          "answer": "9"
+        },
+        {
+          "question": "What is 12 × 12?",
+          "level": "medium",
+          "options": ["142", "144", "146", "148"],
+          "answer": "144"
+        },
+        {
+          "question": "If a triangle has sides 3, 4, and 5, what is its perimeter?",
+          "level": "medium",
+          "options": ["12", "11", "13", "10"],
+          "answer": "12"
+        },
+        {
+          "question": "What is the next prime number after 31?",
+          "level": "medium",
+          "options": ["33", "35", "37", "39"],
+          "answer": "37"
+        },
+        {
+          "question": "What is 25% of 200?",
+          "level": "medium",
+          "options": ["40", "50", "45", "60"],
+          "answer": "50"
+        },
+        {
+          "question": "Solve: 3(2x + 4) = 18",
+          "level": "medium",
+          "options": ["1", "2", "3", "4"],
+          "answer": "1"
+        },
+        {
+          "question": "What is 7! (7 factorial)?",
+          "level": "medium",
+          "options": ["5040", "720", "40320", "120"],
+          "answer": "5040"
+        },
+        {
+          "question": "If the radius of a circle is 7, what is its area? (Use π ≈ 22/7)",
+          "level": "medium",
+          "options": ["154", "144", "164", "174"],
+          "answer": "154"
+        },
+    
+       
+        {
+          "question": "Solve for x: 2x² - 8x + 6 = 0",
+          "level": "hard",
+          "options": ["1 or 3", "2 or 4", "3 or 5", "0 or 2"],
+          "answer": "1 or 3"
+        },
+        {
+          "question": "What is the derivative of f(x) = 3x² + 5x?",
+          "level": "hard",
+          "options": ["3x + 5", "6x + 5", "6x + 3", "5x + 3"],
+          "answer": "6x + 5"
+        },
+        {
+          "question": "What is the integral of f(x) = 2x?",
+          "level": "hard",
+          "options": ["x² + C", "2x + C", "x + C", "x²/2 + C"],
+          "answer": "x² + C"
+        },
+        {
+          "question": "What is the solution to the system: x + y = 10 and x - y = 2?",
+          "level": "hard",
+          "options": ["x=6, y=4", "x=4, y=6", "x=7, y=3", "x=3, y=7"],
+          "answer": "x=6, y=4"
+        },
+        {
+          "question": "If f(x) = 2x + 3, what is f⁻¹(x)? (Inverse function)",
+          "level": "hard",
+          "options": ["(x-3)/2", "(x+3)/2", "(2x-3)", "(2x+3)"],
+          "answer": "(x-3)/2"
+        },
+        {
+          "question": "What is the limit of (1 + 1/n)^n as n approaches infinity?",
+          "level": "hard",
+          "options": ["1", "e", "0", "Infinity"],
+          "answer": "e"
+        },
+        {
+          "question": "What is the value of sin(90°)?",
+          "level": "hard",
+          "options": ["0", "1", "0.5", "√2/2"],
+          "answer": "1"
+        },
+        {
+          "question": "Find the determinant of matrix [[1,2],[3,4]]",
+          "level": "hard",
+          "options": ["-2", "2", "10", "-10"],
+          "answer": "-2"
+        },
+        {
+          "question": "What is the sum of the interior angles of a hexagon?",
+          "level": "hard",
+          "options": ["540°", "720°", "360°", "480°"],
+          "answer": "720°"
+        },
+        {
+          "question": "Simplify: (x² - 9)/(x + 3)",
+          "level": "hard",
+          "options": ["x - 3", "x + 3", "x - 9", "x + 9"],
+          "answer": "x - 3"
+        }
+      ]
+    } ,
+   
+  "Science":{
+  "questions": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "level": "easy",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "level": "easy",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "Water boils at what temperature (in Celsius)?",
+      "level": "easy",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Which organ pumps blood through the body?",
+      "level": "easy",
+      "options": ["Lungs", "Brain", "Heart", "Kidneys"],
+      "answer": "Heart"
+    },
+    {
+      "question": "What force keeps us on the ground?",
+      "level": "easy",
+      "options": ["Magnetism", "Friction", "Gravity", "Electricity"],
+      "answer": "Gravity"
+    },
+    {
+      "question": "What is the center of an atom called?",
+      "level": "easy",
+      "options": ["Electron", "Proton", "Nucleus", "Neutron"],
+      "answer": "Nucleus"
+    },
+    {
+      "question": "Which gas do humans breathe in to survive?",
+      "level": "easy",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "level": "easy",
+      "options": ["O2", "CO2", "H2O", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "How many legs do insects have?",
+      "level": "easy",
+      "options": ["4", "6", "8", "10"],
+      "answer": "6"
+    },
+    {
+      "question": "Which planet is closest to the sun?",
+      "level": "easy",
+      "options": ["Venus", "Mercury", "Earth", "Mars"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What type of energy comes from the sun?",
+      "level": "medium",
+      "options": ["Nuclear", "Thermal", "Solar", "Kinetic"],
+      "answer": "Solar"
+    },
+    {
+      "question": "Which organelle is known as the powerhouse of the cell?",
+      "level": "medium",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "level": "medium",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What type of bond involves the sharing of electrons?",
+      "level": "medium",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+      "answer": "Covalent bond"
+    },
+    {
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "level": "medium",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What part of the brain controls balance and coordination?",
+      "level": "medium",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "Which particle has a negative charge?",
+      "level": "medium",
+      "options": ["Proton", "Electron", "Neutron", "Photon"],
+      "answer": "Electron"
+    },
+    {
+      "question": "The process by which plants make their food is called?",
+      "level": "medium",
+      "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which part of the eye controls the amount of light entering it?",
+      "level": "medium",
+      "options": ["Cornea", "Iris", "Retina", "Lens"],
+      "answer": "Iris"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "level": "medium",
+      "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+      "answer": "NaCl"
+    },
+    {
+      "question": "What is the speed of light?",
+      "level": "hard",
+      "options": ["300,000 km/s", "150,000 km/s", "100,000 km/s", "1,000,000 km/s"],
+      "answer": "300,000 km/s"
+    },
+    {
+      "question": "What law explains the relationship between pressure and volume of gas?",
+      "level": "hard",
+      "options": ["Boyle's Law", "Charles's Law", "Newton's Law", "Ohm's Law"],
+      "answer": "Boyle's Law"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "level": "hard",
+      "options": ["Ribosome", "Mitochondria", "Nucleus", "Lysosome"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which element has the atomic number 6?",
+      "level": "hard",
+      "options": ["Oxygen", "Carbon", "Nitrogen", "Helium"],
+      "answer": "Carbon"
+    },
+    {
+      "question": "Which process describes cell division in body cells?",
+      "level": "hard",
+      "options": ["Mitosis", "Meiosis", "Binary Fission", "Budding"],
+      "answer": "Mitosis"
+    },
+    {
+      "question": "What is the term for animals that eat both plants and meat?",
+      "level": "hard",
+      "options": ["Herbivores", "Carnivores", "Omnivores", "Detritivores"],
+      "answer": "Omnivores"
+    },
+    {
+      "question": "The element with the symbol 'Fe' is?",
+      "level": "hard",
+      "options": ["Fluorine", "Iron", "Francium", "Fermium"],
+      "answer": "Iron"
+    },
+    {
+      "question": "Which process produces glucose in plants?",
+      "level": "hard",
+      "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What type of radiation has the shortest wavelength?",
+      "level": "hard",
+      "options": ["Radio waves", "X-rays", "Gamma rays", "Infrared rays"],
+      "answer": "Gamma rays"
+    },
+    {
+      "question": "Which blood cells help fight infections?",
+      "level": "hard",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": "White blood cells"
+    }
+  ]
+} ,
+
+  "History":{
+  "questions": [
+    {
+      "question": "Who was the first President of the United States?",
+      "level": "easy",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+      "answer": "George Washington"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "level": "easy",
+      "options": ["1945", "1939", "1918", "1965"],
+      "answer": "1945"
+    },
+    {
+      "question": "Which ancient civilization built the pyramids?",
+      "level": "easy",
+      "options": ["Romans", "Egyptians", "Greeks", "Mayans"],
+      "answer": "Egyptians"
+    },
+    {
+      "question": "Who discovered America in 1492?",
+      "level": "easy",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "Marco Polo"],
+      "answer": "Christopher Columbus"
+    },
+    {
+      "question": "The Great Wall of China was built to protect against which group?",
+      "level": "easy",
+      "options": ["Mongols", "Romans", "Vikings", "Persians"],
+      "answer": "Mongols"
+    },
+    {
+      "question": "Which empire was ruled by Genghis Khan?",
+      "level": "easy",
+      "options": ["Ottoman Empire", "Mongol Empire", "Roman Empire", "Persian Empire"],
+      "answer": "Mongol Empire"
+    },
+    {
+      "question": "Who was the famous female pharaoh of Ancient Egypt?",
+      "level": "easy",
+      "options": ["Cleopatra", "Nefertiti", "Hatshepsut", "Isis"],
+      "answer": "Hatshepsut"
+    },
+    {
+      "question": "What was the main cause of the American Civil War?",
+      "level": "easy",
+      "options": ["Slavery", "Taxation", "Territorial disputes", "Trade disagreements"],
+      "answer": "Slavery"
+    },
+    {
+      "question": "Which city was the center of the Renaissance?",
+      "level": "easy",
+      "options": ["Florence", "Venice", "Rome", "Paris"],
+      "answer": "Florence"
+    },
+    {
+      "question": "Who wrote the Declaration of Independence?",
+      "level": "easy",
+      "options": ["Benjamin Franklin", "Thomas Jefferson", "John Hancock", "James Madison"],
+      "answer": "Thomas Jefferson"
+    },
+    {
+      "question": "The fall of the Berlin Wall happened in which year?",
+      "level": "medium",
+      "options": ["1989", "1991", "1985", "1995"],
+      "answer": "1989"
+    },
+    {
+      "question": "Which war was fought between the North and South regions in the United States?",
+      "level": "medium",
+      "options": ["World War I", "American Civil War", "War of 1812", "Revolutionary War"],
+      "answer": "American Civil War"
+    },
+    {
+      "question": "The Treaty of Versailles ended which war?",
+      "level": "medium",
+      "options": ["World War I", "World War II", "Napoleonic Wars", "Cold War"],
+      "answer": "World War I"
+    },
+    {
+      "question": "Who was the British Prime Minister during most of World War II?",
+      "level": "medium",
+      "options": ["Winston Churchill", "Neville Chamberlain", "Clement Attlee", "Margaret Thatcher"],
+      "answer": "Winston Churchill"
+    },
+    {
+      "question": "Which empire was ruled by Suleiman the Magnificent?",
+      "level": "medium",
+      "options": ["Ottoman Empire", "Roman Empire", "Mughal Empire", "Persian Empire"],
+      "answer": "Ottoman Empire"
+    },
+    {
+      "question": "What year did India gain independence from British rule?",
+      "level": "medium",
+      "options": ["1947", "1950", "1935", "1965"],
+      "answer": "1947"
+    },
+    {
+      "question": "The French Revolution began in which year?",
+      "level": "medium",
+      "options": ["1789", "1776", "1804", "1799"],
+      "answer": "1789"
+    },
+    {
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "level": "medium",
+      "options": ["Joseph Stalin", "Vladimir Lenin", "Nikita Khrushchev", "Leon Trotsky"],
+      "answer": "Joseph Stalin"
+    },
+    {
+      "question": "Which event sparked the start of World War I?",
+      "level": "medium",
+      "options": ["Assassination of Archduke Franz Ferdinand", "Invasion of Poland", "Pearl Harbor attack", "Fall of the Berlin Wall"],
+      "answer": "Assassination of Archduke Franz Ferdinand"
+    },
+    {
+      "question": "The Renaissance began in which country?",
+      "level": "medium",
+      "options": ["Italy", "France", "England", "Germany"],
+      "answer": "Italy"
+    },
+    {
+      "question": "Which ancient civilization is known for creating the Code of Hammurabi?",
+      "level": "hard",
+      "options": ["Babylonian", "Egyptian", "Greek", "Roman"],
+      "answer": "Babylonian"
+    },
+    {
+      "question": "Who was the last emperor of the Roman Empire?",
+      "level": "hard",
+      "options": ["Romulus Augustulus", "Julius Caesar", "Constantine", "Nero"],
+      "answer": "Romulus Augustulus"
+    },
+    {
+      "question": "The Peloponnesian War was fought between which two city-states?",
+      "level": "hard",
+      "options": ["Athens and Sparta", "Rome and Carthage", "Athens and Thebes", "Sparta and Corinth"],
+      "answer": "Athens and Sparta"
+    },
+    {
+      "question": "Who was known as the 'Iron Lady'?",
+      "level": "hard",
+      "options": ["Margaret Thatcher", "Indira Gandhi", "Angela Merkel", "Golda Meir"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "The Opium Wars were fought between China and which country?",
+      "level": "hard",
+      "options": ["Britain", "France", "Japan", "Russia"],
+      "answer": "Britain"
+    },
+    {
+      "question": "Who led the Haitian Revolution?",
+      "level": "hard",
+      "options": ["Toussaint Louverture", "Simón Bolívar", "José de San Martín", "Miguel Hidalgo"],
+      "answer": "Toussaint Louverture"
+    },
+    {
+      "question": "Which document limited the power of the English monarchy in 1215?",
+      "level": "hard",
+      "options": ["Magna Carta", "Bill of Rights", "English Civil Code", "The Act of Union"],
+      "answer": "Magna Carta"
+    },
+    {
+      "question": "What was the main purpose of the Congress of Vienna (1815)?",
+      "level": "hard",
+      "options": ["Restore European balance of power", "Start the Napoleonic Wars", "Establish the League of Nations", "Promote industrial revolution"],
+      "answer": "Restore European balance of power"
+    },
+    {
+      "question": "Who was the founder of the Mongol Empire?",
+      "level": "hard",
+      "options": ["Genghis Khan", "Kublai Khan", "Tamerlane", "Attila the Hun"],
+      "answer": "Genghis Khan"
+    },
+    {
+      "question": "Which war was known as the 'Great War' before World War II?",
+      "level": "hard",
+      "options": ["World War I", "Napoleonic Wars", "Franco-Prussian War", "Crimean War"],
+      "answer": "World War I"
+    },
+    {
+      "question": "The Byzantine Empire was the continuation of which ancient empire?",
+      "level": "hard",
+      "options": ["Roman Empire", "Greek Empire", "Ottoman Empire", "Persian Empire"],
+      "answer": "Roman Empire"
+    }
+  ]
+},
+
+  "Geography":{
+  "questions": [
+    {
+      "question": "What is the largest continent on Earth?",
+      "level": "easy",
+      "options": ["Africa", "Asia", "Europe", "Antarctica"],
+      "answer": "Asia"
+    },
+    {
+      "question": "Which ocean is the deepest in the world?",
+      "level": "easy",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which country has the largest population?",
+      "level": "easy",
+      "options": ["India", "USA", "China", "Russia"],
+      "answer": "China"
+    },
+    {
+      "question": "What is the capital city of France?",
+      "level": "easy",
+      "options": ["Madrid", "Paris", "Berlin", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "level": "easy",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": "Nile"
+    },
+    {
+      "question": "Mount Everest is located in which mountain range?",
+      "level": "easy",
+      "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+      "answer": "Himalayas"
+    },
+    {
+      "question": "Which continent is known as the 'Dark Continent'?",
+      "level": "easy",
+      "options": ["Asia", "Africa", "Europe", "Australia"],
+      "answer": "Africa"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "level": "easy",
+      "options": ["Tokyo", "Seoul", "Bangkok", "Beijing"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Which desert is the largest in the world?",
+      "level": "easy",
+      "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "level": "easy",
+      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "answer": "Japan"
+    },
+    {
+      "question": "Which country shares the longest land border with the USA?",
+      "level": "medium",
+      "options": ["Mexico", "Canada", "Russia", "Brazil"],
+      "answer": "Canada"
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "level": "medium",
+      "options": ["Monaco", "Nauru", "Vatican City", "San Marino"],
+      "answer": "Vatican City"
+    },
+    {
+      "question": "Which river flows through Baghdad?",
+      "level": "medium",
+      "options": ["Tigris", "Euphrates", "Nile", "Jordan"],
+      "answer": "Tigris"
+    },
+    {
+      "question": "Which African country has Portuguese as its official language?",
+      "level": "medium",
+      "options": ["Angola", "Nigeria", "Kenya", "Egypt"],
+      "answer": "Angola"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "level": "medium",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "Which US state is known as the 'Sunshine State'?",
+      "level": "medium",
+      "options": ["California", "Texas", "Florida", "Arizona"],
+      "answer": "Florida"
+    },
+    {
+      "question": "Which mountain is the highest peak in Africa?",
+      "level": "medium",
+      "options": ["Mount Kenya", "Mount Kilimanjaro", "Mount Elgon", "Mount Meru"],
+      "answer": "Mount Kilimanjaro"
+    },
+    {
+      "question": "Which country is both in Europe and Asia?",
+      "level": "medium",
+      "options": ["Turkey", "Greece", "Poland", "Norway"],
+      "answer": "Turkey"
+    },
+    {
+      "question": "Which is the largest island in the world?",
+      "level": "medium",
+      "options": ["Greenland", "Madagascar", "Borneo", "New Guinea"],
+      "answer": "Greenland"
+    },
+    {
+      "question": "Which sea lies between Africa and the Arabian Peninsula?",
+      "level": "medium",
+      "options": ["Red Sea", "Black Sea", "Mediterranean Sea", "Caspian Sea"],
+      "answer": "Red Sea"
+    },
+    {
+      "question": "Which country has the highest number of volcanoes?",
+      "level": "hard",
+      "options": ["Japan", "Indonesia", "USA", "Chile"],
+      "answer": "Indonesia"
+    },
+    {
+      "question": "What is the name of the tectonic boundary that causes earthquakes in California?",
+      "level": "hard",
+      "options": ["San Andreas Fault", "Ring of Fire", "Mid-Atlantic Ridge", "Himalayan Fault"],
+      "answer": "San Andreas Fault"
+    },
+    {
+      "question": "Which desert is known for its unique 'rain shadow' effect?",
+      "level": "hard",
+      "options": ["Gobi", "Mojave", "Atacama", "Patagonian"],
+      "answer": "Atacama"
+    },
+    {
+      "question": "Which country has the longest coastline in the world?",
+      "level": "hard",
+      "options": ["Australia", "Canada", "Russia", "Norway"],
+      "answer": "Canada"
+    },
+    {
+      "question": "What is the largest lake in Africa?",
+      "level": "hard",
+      "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+      "answer": "Lake Victoria"
+    },
+    {
+      "question": "Which city is known as the 'City of Canals'?",
+      "level": "hard",
+      "options": ["Venice", "Amsterdam", "Bruges", "Bangkok"],
+      "answer": "Venice"
+    },
+    {
+      "question": "Which country is home to the world's tallest waterfall, Angel Falls?",
+      "level": "hard",
+      "options": ["Brazil", "Venezuela", "Colombia", "Peru"],
+      "answer": "Venezuela"
+    },
+    {
+      "question": "Which strait separates Europe and Asia?",
+      "level": "hard",
+      "options": ["Bosporus", "Gibraltar", "Malacca", "Hormuz"],
+      "answer": "Bosporus"
+    },
+    {
+      "question": "Which country has the most natural lakes?",
+      "level": "hard",
+      "options": ["Finland", "Canada", "Russia", "Sweden"],
+      "answer": "Canada"
+    },
+    {
+      "question": "Which plateau is known as the 'Roof of the World'?",
+      "level": "hard",
+      "options": ["Tibetan Plateau", "Deccan Plateau", "Colorado Plateau", "Anatolian Plateau"],
+      "answer": "Tibetan Plateau"
+    }
+  ]
+},
+
+  "English Language":{
+  "questions": [
+    {
+      "question": "Choose the correct plural form of 'child'.",
+      "level": "easy",
+      "options": ["childs", "children", "childes", "childrens"],
+      "answer": "children"
+    },
+    {
+      "question": "Select the correct past tense of 'go'.",
+      "level": "easy",
+      "options": ["goed", "went", "gone", "goes"],
+      "answer": "went"
+    },
+    {
+      "question": "Which word is a synonym of 'happy'?",
+      "level": "easy",
+      "options": ["sad", "joyful", "angry", "tired"],
+      "answer": "joyful"
+    },
+    {
+      "question": "Identify the noun in the sentence: 'The cat is sleeping.'",
+      "level": "easy",
+      "options": ["cat", "is", "sleeping", "the"],
+      "answer": "cat"
+    },
+    {
+      "question": "Choose the correct article: ___ apple a day keeps the doctor away.",
+      "level": "easy",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "An"
+    },
+    {
+      "question": "Select the correct pronoun to complete: '___ is my best friend.'",
+      "level": "easy",
+      "options": ["He", "Him", "His", "Her"],
+      "answer": "He"
+    },
+    {
+      "question": "What is the opposite of 'cold'?",
+      "level": "easy",
+      "options": ["hot", "cool", "warm", "freezing"],
+      "answer": "hot"
+    },
+    {
+      "question": "Fill in the blank: 'She ___ to school every day.'",
+      "level": "easy",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "Identify the verb in the sentence: 'Birds fly in the sky.'",
+      "level": "easy",
+      "options": ["birds", "fly", "sky", "in"],
+      "answer": "fly"
+    },
+    {
+      "question": "Choose the correct spelling:",
+      "level": "easy",
+      "options": ["Recieve", "Receive", "Recive", "Receeve"],
+      "answer": "Receive"
+    },
+    {
+      "question": "Choose the correct form: 'She has ___ homework today.'",
+      "level": "medium",
+      "options": ["many", "much", "more", "most"],
+      "answer": "much"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "level": "medium",
+      "options": [
+        "He don't like pizza.",
+        "He doesn't likes pizza.",
+        "He doesn't like pizza.",
+        "He don't likes pizza."
+      ],
+      "answer": "He doesn't like pizza."
+    },
+    {
+      "question": "Identify the adjective: 'The beautiful garden was full of flowers.'",
+      "level": "medium",
+      "options": ["beautiful", "garden", "full", "flowers"],
+      "answer": "beautiful"
+    },
+    {
+      "question": "Fill in the blank: 'If I ___ you, I would apologize.'",
+      "level": "medium",
+      "options": ["was", "were", "am", "be"],
+      "answer": "were"
+    },
+    {
+      "question": "Choose the correct conjunction: 'I like tea ___ coffee.'",
+      "level": "medium",
+      "options": ["and", "but", "or", "so"],
+      "answer": "or"
+    },
+    {
+      "question": "Identify the adverb: 'She quickly ran to the bus stop.'",
+      "level": "medium",
+      "options": ["she", "quickly", "ran", "bus stop"],
+      "answer": "quickly"
+    },
+    {
+      "question": "Which is the correct comparative form?",
+      "level": "medium",
+      "options": ["gooder", "better", "best", "more good"],
+      "answer": "better"
+    },
+    {
+      "question": "Choose the correct preposition: 'He is interested ___ music.'",
+      "level": "medium",
+      "options": ["in", "on", "at", "for"],
+      "answer": "in"
+    },
+    {
+      "question": "Fill in the blank: 'They have been friends ___ childhood.'",
+      "level": "medium",
+      "options": ["since", "for", "from", "at"],
+      "answer": "since"
+    },
+    {
+      "question": "Choose the correct passive sentence: 'The book ___ by her yesterday.'",
+      "level": "medium",
+      "options": ["was read", "is read", "were read", "will read"],
+      "answer": "was read"
+    },
+    {
+      "question": "What is the meaning of the idiom 'Break a leg'?",
+      "level": "hard",
+      "options": [
+        "To get injured",
+        "Good luck",
+        "To be unlucky",
+        "To fall down"
+      ],
+      "answer": "Good luck"
+    },
+    {
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "level": "hard",
+      "options": [
+        "Neither of the boys are coming.",
+        "Neither of the boys is coming.",
+        "Neither of the boys were coming.",
+        "Neither of the boys be coming."
+      ],
+      "answer": "Neither of the boys is coming."
+    },
+    {
+      "question": "Choose the correct indirect speech: 'She said, \"I am tired.\"'",
+      "level": "hard",
+      "options": [
+        "She said she is tired.",
+        "She said she was tired.",
+        "She says she was tired.",
+        "She said she will be tired."
+      ],
+      "answer": "She said she was tired."
+    },
+    {
+      "question": "What is a gerund in English grammar?",
+      "level": "hard",
+      "options": [
+        "A noun made from a verb by adding -ing",
+        "A verb in past tense",
+        "An adjective describing a noun",
+        "A type of adverb"
+      ],
+      "answer": "A noun made from a verb by adding -ing"
+    },
+    {
+      "question": "Select the correct use of 'whom':",
+      "level": "hard",
+      "options": [
+        "Whom is calling?",
+        "To whom should I address the letter?",
+        "Whom are going?",
+        "Whom likes the movie?"
+      ],
+      "answer": "To whom should I address the letter?"
+    },
+    {
+      "question": "Choose the correct sentence with subjunctive mood:",
+      "level": "hard",
+      "options": [
+        "If I was you, I would go.",
+        "If I were you, I would go.",
+        "If I am you, I would go.",
+        "If I be you, I would go."
+      ],
+      "answer": "If I were you, I would go."
+    },
+    {
+      "question": "Identify the dangling modifier:",
+      "level": "hard",
+      "options": [
+        "Running to catch the bus, my bag fell.",
+        "I saw the man running to catch the bus.",
+        "While running to catch the bus, I dropped my bag.",
+        "I dropped my bag while running to catch the bus."
+      ],
+      "answer": "Running to catch the bus, my bag fell."
+    },
+    {
+      "question": "What does the phrase 'once in a blue moon' mean?",
+      "level": "hard",
+      "options": [
+        "Very often",
+        "Almost never",
+        "Every month",
+        "Twice a year"
+      ],
+      "answer": "Almost never"
+    },
+    {
+      "question": "Choose the correct form: 'She suggested that he ___ earlier.'",
+      "level": "hard",
+      "options": ["arrives", "arrived", "arrive", "will arrive"],
+      "answer": "arrive"
+    },
+    {
+      "question": "Select the correct sentence:",
+      "level": "hard",
+      "options": [
+        "The committee have reached a decision.",
+        "The committee has reached a decision.",
+        "The committee are reaching a decision.",
+        "The committee reaching a decision."
+      ],
+      "answer": "The committee has reached a decision."
+    }
+  ]
+},
+
+  "Computer Science":{
+  "questions": [
+    {
+      "question": "What does CPU stand for?",
+      "level": "easy",
+      "options": ["Central Processing Unit", "Computer Personal Unit", "Central Processor Unit", "Control Processing Unit"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "What is the basic unit of data in a computer?",
+      "level": "easy",
+      "options": ["Bit", "Byte", "Kilobyte", "Megabyte"],
+      "answer": "Bit"
+    },
+    {
+      "question": "Which device is used to point and click on a computer screen?",
+      "level": "easy",
+      "options": ["Keyboard", "Mouse", "Printer", "Scanner"],
+      "answer": "Mouse"
+    },
+    {
+      "question": "Which of these is an example of an operating system?",
+      "level": "easy",
+      "options": ["Windows", "HTML", "Python", "Google"],
+      "answer": "Windows"
+    },
+    {
+      "question": "What does RAM stand for?",
+      "level": "easy",
+      "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Read All Memory"],
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "Which one is a programming language?",
+      "level": "easy",
+      "options": ["HTTP", "Python", "HTML", "USB"],
+      "answer": "Python"
+    },
+    {
+      "question": "Which part of the computer holds all the data temporarily?",
+      "level": "easy",
+      "options": ["Hard Drive", "RAM", "CPU", "Motherboard"],
+      "answer": "RAM"
+    },
+    {
+      "question": "Which key combination is used to copy text?",
+      "level": "easy",
+      "options": ["Ctrl + C", "Ctrl + V", "Ctrl + X", "Ctrl + Z"],
+      "answer": "Ctrl + C"
+    },
+    {
+      "question": "What does URL stand for?",
+      "level": "easy",
+      "options": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Reference Link", "Universal Reference Locator"],
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "question": "Which device stores data permanently?",
+      "level": "easy",
+      "options": ["RAM", "Hard Drive", "Cache", "CPU"],
+      "answer": "Hard Drive"
+    },
+
+    {
+      "question": "What data structure uses FIFO (First In First Out)?",
+      "level": "medium",
+      "options": ["Stack", "Queue", "Tree", "Graph"],
+      "answer": "Queue"
+    },
+    {
+      "question": "Which sorting algorithm has the best average case time complexity?",
+      "level": "medium",
+      "options": ["Bubble Sort", "Quick Sort", "Selection Sort", "Insertion Sort"],
+      "answer": "Quick Sort"
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "level": "medium",
+      "options": ["Hypertext Transfer Protocol", "Hypertext Transmission Protocol", "Hyper Transfer Text Protocol", "Hyperlink Transfer Protocol"],
+      "answer": "Hypertext Transfer Protocol"
+    },
+    {
+      "question": "Which of these is a NoSQL database?",
+      "level": "medium",
+      "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+      "answer": "MongoDB"
+    },
+    {
+      "question": "What is the output of binary 1010 in decimal?",
+      "level": "medium",
+      "options": ["10", "12", "8", "15"],
+      "answer": "10"
+    },
+    {
+      "question": "In object-oriented programming, what does 'inheritance' mean?",
+      "level": "medium",
+      "options": ["Creating new classes from existing classes", "Encapsulation of data", "Hiding data", "Running multiple programs simultaneously"],
+      "answer": "Creating new classes from existing classes"
+    },
+    {
+      "question": "Which protocol is used to send email?",
+      "level": "medium",
+      "options": ["FTP", "SMTP", "HTTP", "TCP"],
+      "answer": "SMTP"
+    },
+    {
+      "question": "What is the time complexity of accessing an element in an array by index?",
+      "level": "medium",
+      "options": ["O(1)", "O(n)", "O(log n)", "O(n log n)"],
+      "answer": "O(1)"
+    },
+    {
+      "question": "Which language is primarily used for web page styling?",
+      "level": "medium",
+      "options": ["HTML", "CSS", "JavaScript", "Python"],
+      "answer": "CSS"
+    },
+    {
+      "question": "Which of the following is NOT a programming paradigm?",
+      "level": "medium",
+      "options": ["Procedural", "Object-oriented", "Functional", "Hypothetical"],
+      "answer": "Hypothetical"
+    },
+
+    {
+      "question": "Which of the following is a correct statement about Big O notation?",
+      "level": "hard",
+      "options": ["It describes the space complexity only", "It describes the time complexity in terms of input size", "It measures the actual runtime in seconds", "It only applies to sorting algorithms"],
+      "answer": "It describes the time complexity in terms of input size"
+    },
+    {
+      "question": "Which data structure is used for implementing recursion?",
+      "level": "hard",
+      "options": ["Queue", "Stack", "Linked List", "Tree"],
+      "answer": "Stack"
+    },
+    {
+      "question": "What does ACID stand for in database systems?",
+      "level": "hard",
+      "options": ["Atomicity, Consistency, Isolation, Durability", "Accuracy, Consistency, Integrity, Durability", "Atomicity, Correctness, Isolation, Durability", "Atomicity, Consistency, Integrity, Durability"],
+      "answer": "Atomicity, Consistency, Isolation, Durability"
+    },
+    {
+      "question": "What is the function of a DNS server?",
+      "level": "hard",
+      "options": ["Translates IP addresses to domain names", "Stores web pages", "Routes internet traffic", "Translates domain names to IP addresses"],
+      "answer": "Translates domain names to IP addresses"
+    },
+    {
+      "question": "What is the worst-case time complexity of Quick Sort?",
+      "level": "hard",
+      "options": ["O(n log n)", "O(n^2)", "O(log n)", "O(n)"],
+      "answer": "O(n^2)"
+    },
+    {
+      "question": "Which of these is a strongly typed programming language?",
+      "level": "hard",
+      "options": ["C", "Python", "Java", "Assembly"],
+      "answer": "Java"
+    },
+    {
+      "question": "Which technique prevents SQL injection attacks?",
+      "level": "hard",
+      "options": ["Using prepared statements", "Using direct queries", "Allowing user input directly", "Disabling firewalls"],
+      "answer": "Using prepared statements"
+    },
+    {
+      "question": "What is the output of the expression: Boolean(0)?",
+      "level": "hard",
+      "options": ["true", "false", "0", "undefined"],
+      "answer": "false"
+    },
+    {
+      "question": "In networking, what does TCP stand for?",
+      "level": "hard",
+      "options": ["Transmission Control Protocol", "Transfer Control Protocol", "Transmission Communication Protocol", "Transfer Communication Protocol"],
+      "answer": "Transmission Control Protocol"
+    },
+    {
+      "question": "Which of these is NOT part of the OSI model?",
+      "level": "hard",
+      "options": ["Session", "Transport", "Internet", "Presentation"],
+      "answer": "Internet"
+    }
+  ]
+},
+
+  "Physics":{
+  "questions": [
+    {
+      "question": "What is the unit of force?",
+      "level": "easy",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "answer": "Newton"
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "level": "easy",
+      "options": ["3x10^8 m/s", "3x10^6 m/s", "3x10^5 m/s", "3x10^7 m/s"],
+      "answer": "3x10^8 m/s"
+    },
+    {
+      "question": "Which particle has a negative charge?",
+      "level": "easy",
+      "options": ["Proton", "Electron", "Neutron", "Photon"],
+      "answer": "Electron"
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "level": "easy",
+      "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "9.2 m/s²"],
+      "answer": "9.8 m/s²"
+    },
+    {
+      "question": "What does a volt measure?",
+      "level": "easy",
+      "options": ["Electric current", "Electric potential", "Resistance", "Power"],
+      "answer": "Electric potential"
+    },
+    {
+      "question": "What is the SI unit of energy?",
+      "level": "easy",
+      "options": ["Joule", "Watt", "Newton", "Pascal"],
+      "answer": "Joule"
+    },
+    {
+      "question": "Light behaves as which of the following?",
+      "level": "easy",
+      "options": ["Wave", "Particle", "Both wave and particle", "None"],
+      "answer": "Both wave and particle"
+    },
+    {
+      "question": "Which law states 'For every action, there is an equal and opposite reaction'?",
+      "level": "easy",
+      "options": ["Newton's 1st Law", "Newton's 2nd Law", "Newton's 3rd Law", "Law of Conservation of Energy"],
+      "answer": "Newton's 3rd Law"
+    },
+    {
+      "question": "What property of a material opposes the flow of electric current?",
+      "level": "easy",
+      "options": ["Resistance", "Voltage", "Capacitance", "Inductance"],
+      "answer": "Resistance"
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "level": "easy",
+      "options": ["Speed", "Mass", "Displacement", "Temperature"],
+      "answer": "Displacement"
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "level": "medium",
+      "options": ["(1/2)mv²", "mv", "mgh", "mg"],
+      "answer": "(1/2)mv²"
+    },
+    {
+      "question": "The resistance of a conductor depends on which factor?",
+      "level": "medium",
+      "options": ["Length and temperature", "Length and mass", "Mass and volume", "Area and mass"],
+      "answer": "Length and temperature"
+    },
+    {
+      "question": "What is the unit of frequency?",
+      "level": "medium",
+      "options": ["Hertz", "Newton", "Pascal", "Tesla"],
+      "answer": "Hertz"
+    },
+    {
+      "question": "Which of the following waves require a medium to propagate?",
+      "level": "medium",
+      "options": ["Sound waves", "Light waves", "X-rays", "Radio waves"],
+      "answer": "Sound waves"
+    },
+    {
+      "question": "What does Ohm's law state?",
+      "level": "medium",
+      "options": ["V=IR", "F=ma", "E=mc²", "P=IV"],
+      "answer": "V=IR"
+    },
+    {
+      "question": "What phenomenon causes a straw to appear bent in water?",
+      "level": "medium",
+      "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+      "answer": "Refraction"
+    },
+    {
+      "question": "What is the main source of energy for the sun?",
+      "level": "medium",
+      "options": ["Nuclear fusion", "Nuclear fission", "Chemical reactions", "Gravitational energy"],
+      "answer": "Nuclear fusion"
+    },
+    {
+      "question": "Which particle has no electric charge?",
+      "level": "medium",
+      "options": ["Electron", "Proton", "Neutron", "Photon"],
+      "answer": "Neutron"
+    },
+    {
+      "question": "Which principle explains why airplanes can fly?",
+      "level": "medium",
+      "options": ["Bernoulli's principle", "Archimedes' principle", "Pascal's law", "Newton's law of motion"],
+      "answer": "Bernoulli's principle"
+    },
+    {
+      "question": "What is the unit of magnetic field strength?",
+      "level": "medium",
+      "options": ["Tesla", "Henry", "Weber", "Ohm"],
+      "answer": "Tesla"
+    },
+    {
+      "question": "What is the work done when a force moves an object over a distance in the direction of the force?",
+      "level": "hard",
+      "options": ["Energy transferred", "Potential energy", "Kinetic energy", "Work"],
+      "answer": "Work"
+    },
+    {
+      "question": "What is the principle behind a hydraulic lift?",
+      "level": "hard",
+      "options": ["Pascal's law", "Bernoulli's principle", "Archimedes' principle", "Newton's second law"],
+      "answer": "Pascal's law"
+    },
+    {
+      "question": "What does the term 'entropy' measure in thermodynamics?",
+      "level": "hard",
+      "options": ["Disorder", "Energy", "Heat", "Work"],
+      "answer": "Disorder"
+    },
+    {
+      "question": "Which fundamental force is responsible for holding the nucleus together?",
+      "level": "hard",
+      "options": ["Gravitational force", "Electromagnetic force", "Strong nuclear force", "Weak nuclear force"],
+      "answer": "Strong nuclear force"
+    },
+    {
+      "question": "What type of lens is used to correct myopia (nearsightedness)?",
+      "level": "hard",
+      "options": ["Concave lens", "Convex lens", "Plano-convex lens", "Bifocal lens"],
+      "answer": "Concave lens"
+    },
+    {
+      "question": "What is the energy associated with the position of an object in a gravitational field?",
+      "level": "hard",
+      "options": ["Potential energy", "Kinetic energy", "Thermal energy", "Mechanical energy"],
+      "answer": "Potential energy"
+    },
+    {
+      "question": "What is the approximate speed of sound in air at room temperature?",
+      "level": "hard",
+      "options": ["343 m/s", "300 m/s", "1500 m/s", "500 m/s"],
+      "answer": "343 m/s"
+    },
+    {
+      "question": "Which law explains the relationship between pressure and volume of a gas at constant temperature?",
+      "level": "hard",
+      "options": ["Boyle's law", "Charles's law", "Gay-Lussac's law", "Avogadro's law"],
+      "answer": "Boyle's law"
+    },
+    {
+      "question": "What is the principle behind the working of a transformer?",
+      "level": "hard",
+      "options": ["Electromagnetic induction", "Electrostatic induction", "Photoelectric effect", "Capacitive coupling"],
+      "answer": "Electromagnetic induction"
+    },
+    {
+      "question": "What kind of particle is a photon?",
+      "level": "hard",
+      "options": ["Boson", "Fermion", "Lepton", "Hadron"],
+      "answer": "Boson"
+    }
+  ]
+},
+
+  "Chemistry":{
+  "questions": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "level": "easy",
+      "options": ["H2O", "O2", "CO2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "level": "easy",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the pH of pure water?",
+      "level": "easy",
+      "options": ["7", "1", "14", "10"],
+      "answer": "7"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "level": "easy",
+      "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What is the formula of table salt?",
+      "level": "easy",
+      "options": ["NaCl", "KCl", "NaOH", "HCl"],
+      "answer": "NaCl"
+    },
+    {
+      "question": "Which state of matter has a fixed volume but no fixed shape?",
+      "level": "easy",
+      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "answer": "Liquid"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "level": "easy",
+      "options": ["Mercury", "Iron", "Gold", "Silver"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "level": "easy",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What type of bond involves sharing electrons?",
+      "level": "easy",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+      "answer": "Covalent bond"
+    },
+    {
+      "question": "Which of the following is an acid?",
+      "level": "easy",
+      "options": ["Sodium Hydroxide", "Hydrochloric Acid", "Water", "Salt"],
+      "answer": "Hydrochloric Acid"
+    },
+    {
+      "question": "What is Avogadro's number?",
+      "level": "medium",
+      "options": ["6.02 × 10^23", "3.14", "9.8", "1.6 × 10^-19"],
+      "answer": "6.02 × 10^23"
+    },
+    {
+      "question": "Which gas is produced when hydrochloric acid reacts with zinc?",
+      "level": "medium",
+      "options": ["Hydrogen", "Oxygen", "Chlorine", "Nitrogen"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What is the oxidation state of sulfur in H2SO4?",
+      "level": "medium",
+      "options": ["+6", "-2", "+4", "0"],
+      "answer": "+6"
+    },
+    {
+      "question": "Which type of reaction involves the exchange of ions between two compounds?",
+      "level": "medium",
+      "options": ["Synthesis", "Decomposition", "Double displacement", "Combustion"],
+      "answer": "Double displacement"
+    },
+    {
+      "question": "What is the molar mass of carbon dioxide (CO2)?",
+      "level": "medium",
+      "options": ["44 g/mol", "28 g/mol", "32 g/mol", "12 g/mol"],
+      "answer": "44 g/mol"
+    },
+    {
+      "question": "Which element is a halogen?",
+      "level": "medium",
+      "options": ["Sodium", "Chlorine", "Calcium", "Iron"],
+      "answer": "Chlorine"
+    },
+    {
+      "question": "What type of catalyst speeds up the reaction without being consumed?",
+      "level": "medium",
+      "options": ["Inhibitor", "Enzyme", "Catalyst", "Reactant"],
+      "answer": "Catalyst"
+    },
+    {
+      "question": "Which law states that volume and temperature of a gas are directly proportional?",
+      "level": "medium",
+      "options": ["Boyle's law", "Charles's law", "Avogadro's law", "Dalton's law"],
+      "answer": "Charles's law"
+    },
+    {
+      "question": "Which element is most abundant in the Earth's crust?",
+      "level": "medium",
+      "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the common name for sodium bicarbonate?",
+      "level": "medium",
+      "options": ["Baking soda", "Table salt", "Vinegar", "Bleach"],
+      "answer": "Baking soda"
+    },
+    {
+      "question": "Which of the following is NOT a noble gas?",
+      "level": "hard",
+      "options": ["Argon", "Neon", "Xenon", "Nitrogen"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the shape of a methane (CH4) molecule?",
+      "level": "hard",
+      "options": ["Tetrahedral", "Linear", "Trigonal planar", "Bent"],
+      "answer": "Tetrahedral"
+    },
+    {
+      "question": "What is the electron configuration of oxygen?",
+      "level": "hard",
+      "options": ["1s2 2s2 2p4", "1s2 2s2 2p6", "1s2 2s1", "1s2 2s2 2p3"],
+      "answer": "1s2 2s2 2p4"
+    },
+    {
+      "question": "Which acid is found in vinegar?",
+      "level": "hard",
+      "options": ["Acetic acid", "Citric acid", "Sulfuric acid", "Hydrochloric acid"],
+      "answer": "Acetic acid"
+    },
+    {
+      "question": "What type of isomerism occurs when compounds have the same formula but different structural arrangements?",
+      "level": "hard",
+      "options": ["Geometric isomerism", "Structural isomerism", "Optical isomerism", "Conformational isomerism"],
+      "answer": "Structural isomerism"
+    },
+    {
+      "question": "Which principle states that no two electrons in an atom can have the same set of quantum numbers?",
+      "level": "hard",
+      "options": ["Pauli exclusion principle", "Hund's rule", "Aufbau principle", "Heisenberg uncertainty principle"],
+      "answer": "Pauli exclusion principle"
+    },
+    {
+      "question": "What is the standard enthalpy change of formation for an element in its standard state?",
+      "level": "hard",
+      "options": ["Zero", "Positive", "Negative", "Depends on the element"],
+      "answer": "Zero"
+    },
+    {
+      "question": "Which process involves a solid changing directly into a gas?",
+      "level": "hard",
+      "options": ["Sublimation", "Condensation", "Evaporation", "Melting"],
+      "answer": "Sublimation"
+    },
+    {
+      "question": "What is the major product when an alkene reacts with bromine water?",
+      "level": "hard",
+      "options": ["Dibromoalkane", "Alkane", "Alcohol", "Bromine gas"],
+      "answer": "Dibromoalkane"
+    }
+  ]
+},
+
+  "Biology":{
+  "questions": [
+    {
+      "question": "What is the basic unit of life?",
+      "level": "easy",
+      "options": ["Cell", "Atom", "Molecule", "Organ"],
+      "answer": "Cell"
+    },
+    {
+      "question": "Which organelle is known as the powerhouse of the cell?",
+      "level": "easy",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "What pigment gives plants their green color?",
+      "level": "easy",
+      "options": ["Chlorophyll", "Carotene", "Xanthophyll", "Melanin"],
+      "answer": "Chlorophyll"
+    },
+    {
+      "question": "Which blood cells help fight infections?",
+      "level": "easy",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": "White blood cells"
+    },
+    {
+      "question": "Where does photosynthesis take place?",
+      "level": "easy",
+      "options": ["Mitochondria", "Chloroplast", "Nucleus", "Ribosome"],
+      "answer": "Chloroplast"
+    },
+    {
+      "question": "Which part of the plant absorbs water?",
+      "level": "easy",
+      "options": ["Stem", "Leaves", "Roots", "Flowers"],
+      "answer": "Roots"
+    },
+    {
+      "question": "What gas do plants take in for photosynthesis?",
+      "level": "easy",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "level": "easy",
+      "options": ["Heart", "Liver", "Skin", "Lungs"],
+      "answer": "Skin"
+    },
+    {
+      "question": "How many chambers does the human heart have?",
+      "level": "easy",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "question": "What type of blood vessels carry blood away from the heart?",
+      "level": "easy",
+      "options": ["Veins", "Capillaries", "Arteries", "Venules"],
+      "answer": "Arteries"
+    },
+    {
+      "question": "Which macromolecule is the main component of cell membranes?",
+      "level": "medium",
+      "options": ["Carbohydrates", "Lipids", "Proteins", "Nucleic acids"],
+      "answer": "Lipids"
+    },
+    {
+      "question": "What is the process of cell division called?",
+      "level": "medium",
+      "options": ["Photosynthesis", "Mitosis", "Meiosis", "Fermentation"],
+      "answer": "Mitosis"
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "level": "medium",
+      "options": ["Liver", "Pancreas", "Kidney", "Spleen"],
+      "answer": "Pancreas"
+    },
+    {
+      "question": "What type of biomolecule are enzymes?",
+      "level": "medium",
+      "options": ["Carbohydrates", "Lipids", "Proteins", "Nucleic acids"],
+      "answer": "Proteins"
+    },
+    {
+      "question": "What is the term for animals that eat both plants and meat?",
+      "level": "medium",
+      "options": ["Herbivores", "Carnivores", "Omnivores", "Insectivores"],
+      "answer": "Omnivores"
+    },
+    {
+      "question": "What structure carries genetic information?",
+      "level": "medium",
+      "options": ["Mitochondria", "Chromosomes", "Ribosomes", "Lysosomes"],
+      "answer": "Chromosomes"
+    },
+    {
+      "question": "Which part of the brain controls balance and coordination?",
+      "level": "medium",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "Which vitamin is primarily produced in the skin upon sunlight exposure?",
+      "level": "medium",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the name of the process by which water moves across a membrane?",
+      "level": "medium",
+      "options": ["Diffusion", "Osmosis", "Active transport", "Endocytosis"],
+      "answer": "Osmosis"
+    },
+    {
+      "question": "What blood type is considered the universal donor?",
+      "level": "medium",
+      "options": ["A", "B", "AB", "O negative"],
+      "answer": "O negative"
+    },
+    {
+      "question": "Which kingdom do mushrooms belong to?",
+      "level": "hard",
+      "options": ["Plantae", "Animalia", "Fungi", "Protista"],
+      "answer": "Fungi"
+    },
+    {
+      "question": "What is the name of the scientist who proposed the theory of evolution by natural selection?",
+      "level": "hard",
+      "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Isaac Newton"],
+      "answer": "Charles Darwin"
+    },
+    {
+      "question": "What molecule carries amino acids to the ribosome during protein synthesis?",
+      "level": "hard",
+      "options": ["mRNA", "tRNA", "rRNA", "DNA"],
+      "answer": "tRNA"
+    },
+    {
+      "question": "Which part of a neuron receives signals from other neurons?",
+      "level": "hard",
+      "options": ["Axon", "Dendrite", "Myelin sheath", "Cell body"],
+      "answer": "Dendrite"
+    },
+    {
+      "question": "What type of bond holds together the two strands of DNA?",
+      "level": "hard",
+      "options": ["Ionic bond", "Hydrogen bond", "Covalent bond", "Peptide bond"],
+      "answer": "Hydrogen bond"
+    },
+    {
+      "question": "Which hormone regulates the sleep-wake cycle?",
+      "level": "hard",
+      "options": ["Melatonin", "Adrenaline", "Insulin", "Cortisol"],
+      "answer": "Melatonin"
+    },
+    {
+      "question": "What is the term for programmed cell death?",
+      "level": "hard",
+      "options": ["Mitosis", "Apoptosis", "Necrosis", "Meiosis"],
+      "answer": "Apoptosis"
+    },
+    {
+      "question": "Which enzyme breaks down starch into sugars?",
+      "level": "hard",
+      "options": ["Lipase", "Amylase", "Protease", "Lactase"],
+      "answer": "Amylase"
+    },
+    {
+      "question": "In which organelle does cellular respiration primarily occur?",
+      "level": "hard",
+      "options": ["Chloroplast", "Mitochondria", "Nucleus", "Endoplasmic reticulum"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "What is the largest type of white blood cell?",
+      "level": "hard",
+      "options": ["Neutrophil", "Monocyte", "Lymphocyte", "Eosinophil"],
+      "answer": "Monocyte"
+    },
+    {
+      "question": "Which of the following is NOT a nitrogenous base found in DNA?",
+      "level": "hard",
+      "options": ["Adenine", "Thymine", "Uracil", "Guanine"],
+      "answer": "Uracil"
+    }
+  ]
+},
+
+  "Economics":{
+  "questions": [
+    {
+      "question": "What is the study of how people use resources and respond to incentives called?",
+      "level": "easy",
+      "options": ["Biology", "Economics", "Chemistry", "History"],
+      "answer": "Economics"
+    },
+    {
+      "question": "Which term describes a market structure with only one seller?",
+      "level": "easy",
+      "options": ["Monopoly", "Oligopoly", "Perfect Competition", "Monopsony"],
+      "answer": "Monopoly"
+    },
+    {
+      "question": "What is the term for a general increase in prices and fall in the purchasing value of money?",
+      "level": "easy",
+      "options": ["Inflation", "Deflation", "Recession", "Depression"],
+      "answer": "Inflation"
+    },
+    {
+      "question": "Which economist wrote 'The Wealth of Nations'?",
+      "level": "easy",
+      "options": ["Karl Marx", "Adam Smith", "John Maynard Keynes", "Milton Friedman"],
+      "answer": "Adam Smith"
+    },
+    {
+      "question": "What does GDP stand for?",
+      "level": "easy",
+      "options": ["Gross Domestic Product", "General Debt Position", "Global Development Plan", "Government Debt Percentage"],
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "What is the law of demand?",
+      "level": "easy",
+      "options": [
+        "Demand rises when price rises",
+        "Demand falls when price rises",
+        "Demand stays constant",
+        "Demand rises with income"
+      ],
+      "answer": "Demand falls when price rises"
+    },
+    {
+      "question": "What is the currency of the United States?",
+      "level": "easy",
+      "options": ["Euro", "Dollar", "Pound", "Yen"],
+      "answer": "Dollar"
+    },
+    {
+      "question": "What is a subsidy?",
+      "level": "easy",
+      "options": ["Tax on goods", "Government payment to encourage production", "Fine for companies", "Loan from bank"],
+      "answer": "Government payment to encourage production"
+    },
+    {
+      "question": "Which of these is a factor of production?",
+      "level": "easy",
+      "options": ["Capital", "Money", "Profit", "Debt"],
+      "answer": "Capital"
+    },
+    {
+      "question": "What does the term 'opportunity cost' mean?",
+      "level": "easy",
+      "options": [
+        "The cost of a lost opportunity",
+        "The benefit of the best alternative forgone",
+        "The total cost of a product",
+        "The fixed cost in production"
+      ],
+      "answer": "The benefit of the best alternative forgone"
+    },
+    {
+      "question": "What is a recession?",
+      "level": "medium",
+      "options": [
+        "A period of rising prices",
+        "A significant decline in economic activity lasting more than a few months",
+        "An increase in employment",
+        "A government surplus"
+      ],
+      "answer": "A significant decline in economic activity lasting more than a few months"
+    },
+    {
+      "question": "What does the term 'elasticity' refer to in economics?",
+      "level": "medium",
+      "options": [
+        "The responsiveness of quantity demanded or supplied to a change in price",
+        "The flexibility of a product",
+        "The cost of production",
+        "The interest rate sensitivity"
+      ],
+      "answer": "The responsiveness of quantity demanded or supplied to a change in price"
+    },
+    {
+      "question": "Which organization manages international monetary cooperation?",
+      "level": "medium",
+      "options": ["IMF", "WHO", "UNICEF", "WTO"],
+      "answer": "IMF"
+    },
+    {
+      "question": "What is 'fiscal policy'?",
+      "level": "medium",
+      "options": [
+        "Government decisions about taxation and spending",
+        "Central bank interest rate decisions",
+        "Trade regulations",
+        "Stock market policies"
+      ],
+      "answer": "Government decisions about taxation and spending"
+    },
+    {
+      "question": "What is 'market equilibrium'?",
+      "level": "medium",
+      "options": [
+        "When supply exceeds demand",
+        "When demand exceeds supply",
+        "When quantity supplied equals quantity demanded",
+        "When prices are fixed"
+      ],
+      "answer": "When quantity supplied equals quantity demanded"
+    },
+    {
+      "question": "What does 'monetary policy' primarily involve?",
+      "level": "medium",
+      "options": [
+        "Government spending",
+        "Taxation",
+        "Central bank control of the money supply and interest rates",
+        "Trade tariffs"
+      ],
+      "answer": "Central bank control of the money supply and interest rates"
+    },
+    {
+      "question": "Which curve represents the relationship between price and quantity demanded?",
+      "level": "medium",
+      "options": ["Supply curve", "Demand curve", "Production curve", "Cost curve"],
+      "answer": "Demand curve"
+    },
+    {
+      "question": "What is 'comparative advantage'?",
+      "level": "medium",
+      "options": [
+        "Producing goods at a lower opportunity cost than others",
+        "Producing more goods than others",
+        "Having the most resources",
+        "Setting the highest prices"
+      ],
+      "answer": "Producing goods at a lower opportunity cost than others"
+    },
+    {
+      "question": "What is a trade deficit?",
+      "level": "medium",
+      "options": [
+        "When exports exceed imports",
+        "When imports exceed exports",
+        "When government spending is more than revenue",
+        "When GDP is negative"
+      ],
+      "answer": "When imports exceed exports"
+    },
+    {
+      "question": "What does the Phillips curve show?",
+      "level": "medium",
+      "options": [
+        "Relationship between inflation and unemployment",
+        "Relationship between supply and demand",
+        "Relationship between GDP and inflation",
+        "Relationship between interest rates and investment"
+      ],
+      "answer": "Relationship between inflation and unemployment"
+    },
+    {
+      "question": "What is stagflation?",
+      "level": "hard",
+      "options": [
+        "High inflation with high unemployment and stagnant demand",
+        "Rapid economic growth",
+        "A sudden drop in prices",
+        "Increasing exports and imports"
+      ],
+      "answer": "High inflation with high unemployment and stagnant demand"
+    },
+    {
+      "question": "What is the main goal of antitrust laws?",
+      "level": "hard",
+      "options": [
+        "To protect monopolies",
+        "To promote competition and prevent monopolies",
+        "To increase tariffs",
+        "To regulate currency exchange"
+      ],
+      "answer": "To promote competition and prevent monopolies"
+    },
+    {
+      "question": "What is the Laffer curve?",
+      "level": "hard",
+      "options": [
+        "Relationship between tax rates and tax revenue",
+        "Relationship between supply and demand",
+        "Relationship between inflation and unemployment",
+        "Relationship between interest rates and inflation"
+      ],
+      "answer": "Relationship between tax rates and tax revenue"
+    },
+    {
+      "question": "Which economist is known for the theory of Keynesian economics?",
+      "level": "hard",
+      "options": [
+        "Milton Friedman",
+        "John Maynard Keynes",
+        "Adam Smith",
+        "David Ricardo"
+      ],
+      "answer": "John Maynard Keynes"
+    },
+    {
+      "question": "What is the 'invisible hand' in economics?",
+      "level": "hard",
+      "options": [
+        "Government control of markets",
+        "The self-regulating behavior of the marketplace",
+        "Monopoly power",
+        "High tariffs"
+      ],
+      "answer": "The self-regulating behavior of the marketplace"
+    },
+    {
+      "question": "What does 'Gini coefficient' measure?",
+      "level": "hard",
+      "options": [
+        "Inflation rate",
+        "Income inequality",
+        "Economic growth",
+        "Trade balance"
+      ],
+      "answer": "Income inequality"
+    },
+    {
+      "question": "What is a 'balance of payments'?",
+      "level": "hard",
+      "options": [
+        "A record of all economic transactions between residents of a country and the rest of the world",
+        "A government's budget report",
+        "The annual GDP report",
+        "The tax revenue statement"
+      ],
+      "answer": "A record of all economic transactions between residents of a country and the rest of the world"
+    },
+    {
+      "question": "What is 'moral hazard'?",
+      "level": "hard",
+      "options": [
+        "Risk that a party insulated from risk behaves differently",
+        "A type of tax",
+        "Government intervention in markets",
+        "Inflation adjustment"
+      ],
+      "answer": "Risk that a party insulated from risk behaves differently"
+    },
+    {
+      "question": "What is 'quantitative easing'?",
+      "level": "hard",
+      "options": [
+        "A form of fiscal policy",
+        "A monetary policy where central banks buy securities to increase money supply",
+        "A trade policy",
+        "An international aid program"
+      ],
+      "answer": "A monetary policy where central banks buy securities to increase money supply"
+    }
+  ]
+},
+
+  "Political Science":{
+  "questions": [
+    {
+      "question": "What is the primary function of the legislative branch?",
+      "level": "easy",
+      "options": ["Make laws", "Enforce laws", "Interpret laws", "Manage economy"],
+      "answer": "Make laws"
+    },
+    {
+      "question": "Who is considered the head of the government in a parliamentary system?",
+      "level": "easy",
+      "options": ["President", "Prime Minister", "Speaker", "Chief Justice"],
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "Which document is known as the supreme law of the United States?",
+      "level": "easy",
+      "options": ["Declaration of Independence", "Bill of Rights", "Constitution", "Federalist Papers"],
+      "answer": "Constitution"
+    },
+    {
+      "question": "What type of government is ruled by a king or queen?",
+      "level": "easy",
+      "options": ["Democracy", "Monarchy", "Republic", "Oligarchy"],
+      "answer": "Monarchy"
+    },
+    {
+      "question": "What political ideology advocates for a classless society?",
+      "level": "easy",
+      "options": ["Capitalism", "Communism", "Liberalism", "Conservatism"],
+      "answer": "Communism"
+    },
+    {
+      "question": "Which term describes a system where power is divided between national and regional governments?",
+      "level": "easy",
+      "options": ["Unitary", "Federalism", "Confederation", "Autocracy"],
+      "answer": "Federalism"
+    },
+    {
+      "question": "What is the main purpose of elections in a democracy?",
+      "level": "easy",
+      "options": ["Choose leaders", "Create laws", "Make treaties", "Enforce laws"],
+      "answer": "Choose leaders"
+    },
+    {
+      "question": "What is a political party?",
+      "level": "easy",
+      "options": ["A group that enforces laws", "A group that makes laws", "An organized group that seeks political power", "A court system"],
+      "answer": "An organized group that seeks political power"
+    },
+    {
+      "question": "Which country is known for the birthplace of democracy?",
+      "level": "easy",
+      "options": ["Rome", "Athens", "London", "Paris"],
+      "answer": "Athens"
+    },
+    {
+      "question": "What does the term 'sovereignty' mean?",
+      "level": "easy",
+      "options": ["Government control over economy", "Supreme power within a territory", "Right to vote", "Political party rule"],
+      "answer": "Supreme power within a territory"
+    },
+    {
+      "question": "What is the function of the judiciary in government?",
+      "level": "medium",
+      "options": ["Make laws", "Enforce laws", "Interpret laws", "Collect taxes"],
+      "answer": "Interpret laws"
+    },
+    {
+      "question": "Which political theory emphasizes individual freedom and limited government?",
+      "level": "medium",
+      "options": ["Socialism", "Liberalism", "Authoritarianism", "Communism"],
+      "answer": "Liberalism"
+    },
+    {
+      "question": "What does the term 'bicameral legislature' mean?",
+      "level": "medium",
+      "options": ["A legislature with two houses", "A legislature with one house", "A dictatorship", "A federal government"],
+      "answer": "A legislature with two houses"
+    },
+    {
+      "question": "Which system combines a parliamentary and presidential system?",
+      "level": "medium",
+      "options": ["Unitary", "Federal", "Semi-presidential", "Confederal"],
+      "answer": "Semi-presidential"
+    },
+    {
+      "question": "What is the principle of separation of powers?",
+      "level": "medium",
+      "options": ["Power divided between parties", "Power divided among executive, legislative, judiciary", "Power centralized in one branch", "Power shared by states"],
+      "answer": "Power divided among executive, legislative, judiciary"
+    },
+    {
+      "question": "What is the term for a political system where a single party controls the government?",
+      "level": "medium",
+      "options": ["Democracy", "Oligarchy", "One-party state", "Monarchy"],
+      "answer": "One-party state"
+    },
+    {
+      "question": "Who wrote 'The Prince', a famous book on political power?",
+      "level": "medium",
+      "options": ["John Locke", "Niccolò Machiavelli", "Jean-Jacques Rousseau", "Thomas Hobbes"],
+      "answer": "Niccolò Machiavelli"
+    },
+    {
+      "question": "Which concept describes the right of a nation to govern itself without outside interference?",
+      "level": "medium",
+      "options": ["Imperialism", "Sovereignty", "Colonialism", "Federalism"],
+      "answer": "Sovereignty"
+    },
+    {
+      "question": "What type of government limits the power of rulers by law?",
+      "level": "medium",
+      "options": ["Absolute monarchy", "Constitutional government", "Dictatorship", "Anarchy"],
+      "answer": "Constitutional government"
+    },
+    {
+      "question": "What is the main goal of international organizations like the United Nations?",
+      "level": "medium",
+      "options": ["Promote war", "Maintain international peace and security", "Control national governments", "Manage global economy"],
+      "answer": "Maintain international peace and security"
+    },
+    {
+      "question": "Which system is characterized by rule through elected representatives?",
+      "level": "hard",
+      "options": ["Direct democracy", "Republic", "Monarchy", "Autocracy"],
+      "answer": "Republic"
+    },
+    {
+      "question": "What is 'political socialization'?",
+      "level": "hard",
+      "options": ["Process of learning political values and behavior", "Act of voting in elections", "Creating political parties", "Campaigning"],
+      "answer": "Process of learning political values and behavior"
+    },
+    {
+      "question": "Which philosopher is known for the social contract theory?",
+      "level": "hard",
+      "options": ["Karl Marx", "John Locke", "Plato", "Socrates"],
+      "answer": "John Locke"
+    },
+    {
+      "question": "What is 'pluralism' in political science?",
+      "level": "hard",
+      "options": ["Single-party rule", "Competition among multiple groups for power", "Dictatorship", "Monopoly of political power"],
+      "answer": "Competition among multiple groups for power"
+    },
+    {
+      "question": "Which political ideology supports free-market capitalism and minimal government intervention?",
+      "level": "hard",
+      "options": ["Socialism", "Liberalism", "Conservatism", "Libertarianism"],
+      "answer": "Libertarianism"
+    },
+    {
+      "question": "What does 'judicial review' allow courts to do?",
+      "level": "hard",
+      "options": ["Make laws", "Declare laws unconstitutional", "Enforce laws", "Amend the constitution"],
+      "answer": "Declare laws unconstitutional"
+    },
+    {
+      "question": "What is the role of 'checks and balances' in a government?",
+      "level": "hard",
+      "options": ["Prevent any branch from becoming too powerful", "Speed up lawmaking", "Increase executive power", "Limit voting rights"],
+      "answer": "Prevent any branch from becoming too powerful"
+    },
+    {
+      "question": "What is the definition of 'sovereign state'?",
+      "level": "hard",
+      "options": ["A state with supreme authority over its territory", "A state under another country's control", "A group of countries united", "A state without laws"],
+      "answer": "A state with supreme authority over its territory"
+    },
+    {
+      "question": "What is the difference between a federal and unitary system?",
+      "level": "hard",
+      "options": [
+        "Federal divides power between national and state governments, unitary centralizes power",
+        "Unitary divides power, federal centralizes power",
+        "Both systems are the same",
+        "Federal has no central government"
+      ],
+      "answer": "Federal divides power between national and state governments, unitary centralizes power"
+    }
+  ]
+},
+
+  "General Knowledge":{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "level": "easy",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "level": "easy",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "level": "easy",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "level": "easy",
+      "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "level": "easy",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "level": "easy",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "level": "easy",
+      "options": ["Elephant", "Tiger", "Lion", "Giraffe"],
+      "answer": "Lion"
+    },
+    {
+      "question": "What color do you get when you mix red and white?",
+      "level": "easy",
+      "options": ["Pink", "Purple", "Orange", "Brown"],
+      "answer": "Pink"
+    },
+    {
+      "question": "Which country is famous for the Great Wall?",
+      "level": "easy",
+      "options": ["India", "China", "Japan", "Korea"],
+      "answer": "China"
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "level": "easy",
+      "options": ["50°C", "75°C", "100°C", "150°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Which organ in the human body is responsible for pumping blood?",
+      "level": "medium",
+      "options": ["Lungs", "Heart", "Kidneys", "Liver"],
+      "answer": "Heart"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "level": "medium",
+      "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+      "answer": "George Washington"
+    },
+    {
+      "question": "What is the chemical symbol for Gold?",
+      "level": "medium",
+      "options": ["Au", "Ag", "Gd", "Ga"],
+      "answer": "Au"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "level": "medium",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What year did World War II end?",
+      "level": "medium",
+      "options": ["1942", "1945", "1939", "1918"],
+      "answer": "1945"
+    },
+    {
+      "question": "Which is the largest desert in the world?",
+      "level": "medium",
+      "options": ["Sahara", "Gobi", "Kalahari", "Arctic"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "What is the main ingredient in traditional sushi?",
+      "level": "medium",
+      "options": ["Rice", "Bread", "Pasta", "Potato"],
+      "answer": "Rice"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "level": "medium",
+      "options": ["Oxygen", "Hydrogen", "Carbon", "Nitrogen"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "level": "medium",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the USA?",
+      "level": "medium",
+      "options": ["France", "England", "Germany", "Canada"],
+      "answer": "France"
+    },
+    {
+      "question": "What is the capital city of Australia?",
+      "level": "hard",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "Which scientist developed the theory of relativity?",
+      "level": "hard",
+      "options": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Galileo Galilei"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "Which language has the most native speakers worldwide?",
+      "level": "hard",
+      "options": ["English", "Spanish", "Mandarin", "Hindi"],
+      "answer": "Mandarin"
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "level": "hard",
+      "options": ["Monaco", "Vatican City", "Nauru", "San Marino"],
+      "answer": "Vatican City"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "level": "hard",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "level": "hard",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+      "answer": "Michelangelo"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "level": "hard",
+      "options": ["NaCl", "KCl", "Na2SO4", "CaCl2"],
+      "answer": "NaCl"
+    },
+    {
+      "question": "Which country won the first FIFA World Cup?",
+      "level": "hard",
+      "options": ["Brazil", "Uruguay", "Italy", "Germany"],
+      "answer": "Uruguay"
+    },
+    {
+      "question": "What is the name of the longest river in the world?",
+      "level": "hard",
+      "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "answer": "Nile"
+    },
+    {
+      "question": "Which city hosted the 2016 Summer Olympics?",
+      "level": "hard",
+      "options": ["Tokyo", "Beijing", "Rio de Janeiro", "London"],
+      "answer": "Rio de Janeiro"
+    }
+  ]
+},
+
+   "Sports":{
+  "questions": [
+    {
+      "question": "How many players are there in a soccer team on the field?",
+      "level": "easy",
+      "options": ["9", "10", "11", "12"],
+      "answer": "11"
+    },
+    {
+      "question": "Which sport uses a racket and shuttlecock?",
+      "level": "easy",
+      "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+      "answer": "Badminton"
+    },
+    {
+      "question": "In which sport is the term 'home run' used?",
+      "level": "easy",
+      "options": ["Cricket", "Baseball", "Football", "Hockey"],
+      "answer": "Baseball"
+    },
+    {
+      "question": "What color card means a player is sent off in soccer?",
+      "level": "easy",
+      "options": ["Yellow", "Red", "Green", "Blue"],
+      "answer": "Red"
+    },
+    {
+      "question": "How long is a standard Olympic swimming pool in meters?",
+      "level": "easy",
+      "options": ["25", "50", "100", "75"],
+      "answer": "50"
+    },
+    {
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "level": "easy",
+      "options": ["Brazil", "Germany", "France", "Argentina"],
+      "answer": "France"
+    },
+    {
+      "question": "How many points is a touchdown worth in American football?",
+      "level": "easy",
+      "options": ["3", "6", "7", "1"],
+      "answer": "6"
+    },
+    {
+      "question": "Which sport is played at Wimbledon?",
+      "level": "easy",
+      "options": ["Tennis", "Cricket", "Golf", "Rugby"],
+      "answer": "Tennis"
+    },
+    {
+      "question": "What is the maximum score in a single frame of bowling?",
+      "level": "easy",
+      "options": ["20", "30", "50", "40"],
+      "answer": "30"
+    },
+    {
+      "question": "In which sport would you perform a slam dunk?",
+      "level": "easy",
+      "options": ["Basketball", "Volleyball", "Tennis", "Baseball"],
+      "answer": "Basketball"
+    },
+    {
+      "question": "How many sets are played in a standard women's tennis match?",
+      "level": "medium",
+      "options": ["3", "5", "2", "4"],
+      "answer": "3"
+    },
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "level": "medium",
+      "options": ["China", "Brazil", "UK", "Russia"],
+      "answer": "Brazil"
+    },
+    {
+      "question": "What is the term for a score of zero in tennis?",
+      "level": "medium",
+      "options": ["Zero", "Nil", "Love", "Duck"],
+      "answer": "Love"
+    },
+    {
+      "question": "Which player holds the record for the most goals in World Cup history?",
+      "level": "medium",
+      "options": ["Pelé", "Miroslav Klose", "Ronaldo", "Lionel Messi"],
+      "answer": "Miroslav Klose"
+    },
+    {
+      "question": "In which sport do players compete for the Stanley Cup?",
+      "level": "medium",
+      "options": ["Baseball", "Ice Hockey", "Basketball", "Football"],
+      "answer": "Ice Hockey"
+    },
+    {
+      "question": "How many minutes is a professional soccer match?",
+      "level": "medium",
+      "options": ["60", "90", "120", "45"],
+      "answer": "90"
+    },
+    {
+      "question": "Which country has won the most Rugby World Cups?",
+      "level": "medium",
+      "options": ["Australia", "South Africa", "New Zealand", "England"],
+      "answer": "New Zealand"
+    },
+    {
+      "question": "Who is known as 'The Fastest Man Alive' in athletics?",
+      "level": "medium",
+      "options": ["Usain Bolt", "Carl Lewis", "Michael Johnson", "Tyson Gay"],
+      "answer": "Usain Bolt"
+    },
+    {
+      "question": "What is the length of an NBA basketball court in feet?",
+      "level": "medium",
+      "options": ["84", "90", "94", "100"],
+      "answer": "94"
+    },
+    {
+      "question": "Which golf tournament is known as 'The Masters'?",
+      "level": "medium",
+      "options": ["US Open", "PGA Championship", "The Open Championship", "Masters Tournament"],
+      "answer": "Masters Tournament"
+    },
+    {
+      "question": "What is a 'birdie' in golf?",
+      "level": "hard",
+      "options": ["One stroke under par", "One stroke over par", "Two strokes under par", "Two strokes over par"],
+      "answer": "One stroke under par"
+    },
+    {
+      "question": "Which boxer was nicknamed 'The Greatest' and 'The People's Champion'?",
+      "level": "hard",
+      "options": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "George Foreman"],
+      "answer": "Muhammad Ali"
+    },
+    {
+      "question": "In cricket, how many balls are there in an over?",
+      "level": "hard",
+      "options": ["4", "5", "6", "8"],
+      "answer": "6"
+    },
+    {
+      "question": "Which country won the first FIFA World Cup in 1930?",
+      "level": "hard",
+      "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+      "answer": "Uruguay"
+    },
+    {
+      "question": "What is the term for when a player scores three goals in a single soccer match?",
+      "level": "hard",
+      "options": ["Hat-trick", "Triple Score", "Goal Frenzy", "Three-peat"],
+      "answer": "Hat-trick"
+    },
+    {
+      "question": "In Formula 1 racing, how many wheels does a car have?",
+      "level": "hard",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "Which country has won the most Olympic gold medals in basketball?",
+      "level": "hard",
+      "options": ["USA", "Russia", "Spain", "Argentina"],
+      "answer": "USA"
+    },
+    {
+      "question": "What does the 'IHF' acronym stand for in sports?",
+      "level": "hard",
+      "options": ["International Hockey Federation", "International Handball Federation", "International Horse Federation", "International Health Federation"],
+      "answer": "International Handball Federation"
+    },
+    {
+      "question": "Which athlete has won the most Olympic gold medals?",
+      "level": "hard",
+      "options": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Mark Spitz"],
+      "answer": "Michael Phelps"
+    },
+    {
+      "question": "Which tennis Grand Slam is played on clay courts?",
+      "level": "hard",
+      "options": ["Wimbledon", "US Open", "French Open", "Australian Open"],
+      "answer": "French Open"
+    },
+    {
+      "question": "How many players are on a standard volleyball team on the court?",
+      "level": "hard",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6"
+    }
+  ]
+},
+
+  "Literature":{
+  "questions": [
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "level": "easy",
+      "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the genre of 'To Kill a Mockingbird'?",
+      "level": "easy",
+      "options": ["Science Fiction", "Historical Fiction", "Southern Gothic", "Fantasy"],
+      "answer": "Southern Gothic"
+    },
+    {
+      "question": "Which poet wrote 'The Raven'?",
+      "level": "easy",
+      "options": ["Robert Frost", "Emily Dickinson", "Edgar Allan Poe", "Walt Whitman"],
+      "answer": "Edgar Allan Poe"
+    },
+    {
+      "question": "In which novel does the character 'Jay Gatsby' appear?",
+      "level": "easy",
+      "options": ["The Great Gatsby", "Moby Dick", "1984", "Pride and Prejudice"],
+      "answer": "The Great Gatsby"
+    },
+    {
+      "question": "What type of literature is 'Hamlet'?",
+      "level": "easy",
+      "options": ["Comedy", "Tragedy", "Epic", "Novel"],
+      "answer": "Tragedy"
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "level": "easy",
+      "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "Louisa May Alcott"],
+      "answer": "Jane Austen"
+    },
+    {
+      "question": "Which novel begins with 'Call me Ishmael'?",
+      "level": "easy",
+      "options": ["Moby Dick", "The Odyssey", "Treasure Island", "The Old Man and the Sea"],
+      "answer": "Moby Dick"
+    },
+    {
+      "question": "Who is the author of '1984'?",
+      "level": "easy",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.K. Rowling"],
+      "answer": "George Orwell"
+    },
+    {
+      "question": "Which literary device involves giving human traits to non-human things?",
+      "level": "easy",
+      "options": ["Simile", "Personification", "Metaphor", "Hyperbole"],
+      "answer": "Personification"
+    },
+    {
+      "question": "What is the setting of 'The Lord of the Rings'?",
+      "level": "easy",
+      "options": ["Middle-earth", "Narnia", "Hogwarts", "Westeros"],
+      "answer": "Middle-earth"
+    },
+    {
+      "question": "Who wrote the epic poem 'Paradise Lost'?",
+      "level": "medium",
+      "options": ["John Milton", "Geoffrey Chaucer", "William Blake", "Alexander Pope"],
+      "answer": "John Milton"
+    },
+    {
+      "question": "In Shakespeare's plays, what is a 'soliloquy'?",
+      "level": "medium",
+      "options": ["A conversation between two characters", "A speech delivered by a character alone on stage", "A comedic scene", "A dance sequence"],
+      "answer": "A speech delivered by a character alone on stage"
+    },
+    {
+      "question": "Which novel features the character 'Atticus Finch'?",
+      "level": "medium",
+      "options": ["To Kill a Mockingbird", "The Catcher in the Rye", "Lord of the Flies", "Of Mice and Men"],
+      "answer": "To Kill a Mockingbird"
+    },
+    {
+      "question": "What is the main theme of 'Animal Farm'?",
+      "level": "medium",
+      "options": ["Revolution and corruption", "Love and friendship", "Adventure and exploration", "Fantasy and magic"],
+      "answer": "Revolution and corruption"
+    },
+    {
+      "question": "Who is the author of 'The Canterbury Tales'?",
+      "level": "medium",
+      "options": ["Geoffrey Chaucer", "William Shakespeare", "John Donne", "Christopher Marlowe"],
+      "answer": "Geoffrey Chaucer"
+    },
+    {
+      "question": "What literary movement is Edgar Allan Poe associated with?",
+      "level": "medium",
+      "options": ["Romanticism", "Realism", "Modernism", "Postmodernism"],
+      "answer": "Romanticism"
+    },
+    {
+      "question": "What is the narrative perspective in 'The Great Gatsby'?",
+      "level": "medium",
+      "options": ["First person", "Third person omniscient", "Second person", "Third person limited"],
+      "answer": "First person"
+    },
+    {
+      "question": "Which poet wrote 'Leaves of Grass'?",
+      "level": "medium",
+      "options": ["Walt Whitman", "Robert Frost", "Emily Dickinson", "T.S. Eliot"],
+      "answer": "Walt Whitman"
+    },
+    {
+      "question": "What is a common theme in dystopian literature?",
+      "level": "medium",
+      "options": ["Utopian societies", "Technological progress", "Oppression and control", "Romantic love"],
+      "answer": "Oppression and control"
+    },
+    {
+      "question": "Who wrote 'Frankenstein'?",
+      "level": "medium",
+      "options": ["Mary Shelley", "Bram Stoker", "Edgar Allan Poe", "H.G. Wells"],
+      "answer": "Mary Shelley"
+    },
+    {
+      "question": "In poetry, what is a 'sonnet'?",
+      "level": "hard",
+      "options": ["A 14-line poem with a specific rhyme scheme", "A poem with no rhyme", "A long narrative poem", "A poem about nature"],
+      "answer": "A 14-line poem with a specific rhyme scheme"
+    },
+    {
+      "question": "Which literary technique involves an extended metaphor throughout a work?",
+      "level": "hard",
+      "options": ["Alliteration", "Allegory", "Irony", "Hyperbole"],
+      "answer": "Allegory"
+    },
+    {
+      "question": "Who is the tragic hero in Shakespeare's 'Macbeth'?",
+      "level": "hard",
+      "options": ["Macbeth", "Banquo", "Macduff", "Duncan"],
+      "answer": "Macbeth"
+    },
+    {
+      "question": "What is 'stream of consciousness' in literature?",
+      "level": "hard",
+      "options": ["A style of writing that depicts a character’s thoughts and feelings", "A dialogue between two characters", "A structured poem", "A type of narrative involving flashbacks"],
+      "answer": "A style of writing that depicts a character’s thoughts and feelings"
+    },
+    {
+      "question": "Which author is associated with existentialist literature?",
+      "level": "hard",
+      "options": ["Jean-Paul Sartre", "F. Scott Fitzgerald", "Jane Austen", "Charles Dickens"],
+      "answer": "Jean-Paul Sartre"
+    },
+    {
+      "question": "What is the primary theme of 'Crime and Punishment' by Dostoevsky?",
+      "level": "hard",
+      "options": ["Justice and redemption", "Love and friendship", "Adventure and exploration", "Revenge and power"],
+      "answer": "Justice and redemption"
+    },
+    {
+      "question": "What is a 'Bildungsroman'?",
+      "level": "hard",
+      "options": ["A coming-of-age novel", "A horror story", "A detective novel", "A comedy"],
+      "answer": "A coming-of-age novel"
+    },
+    {
+      "question": "Who wrote 'The Waste Land'?",
+      "level": "hard",
+      "options": ["T.S. Eliot", "Robert Frost", "William Wordsworth", "Samuel Taylor Coleridge"],
+      "answer": "T.S. Eliot"
+    },
+    {
+      "question": "What is the main feature of Modernist literature?",
+      "level": "hard",
+      "options": ["Experimentation with form and style", "Strict adherence to traditional forms", "Focus on religious themes", "Use of simple language"],
+      "answer": "Experimentation with form and style"
+    }
+  ]
+},
+
+  "Current Affairs":{
+  "questions": [
+    {
+      "question": "Who is the current President of the United States as of 2025?",
+      "level": "easy",
+      "options": ["Joe Biden", "Donald Trump", "Barack Obama", "Kamala Harris"],
+      "answer": "Joe Biden"
+    },
+    {
+      "question": "Which country hosted the 2024 Summer Olympics?",
+      "level": "easy",
+      "options": ["Japan", "France", "Brazil", "China"],
+      "answer": "France"
+    },
+    {
+      "question": "What is the name of the latest COVID-19 variant widely discussed in 2024?",
+      "level": "easy",
+      "options": ["Delta", "Omicron", "XBB.1.5", "Alpha"],
+      "answer": "XBB.1.5"
+    },
+    {
+      "question": "Which technology company announced a breakthrough in AI in 2024?",
+      "level": "easy",
+      "options": ["Google", "Microsoft", "OpenAI", "Apple"],
+      "answer": "OpenAI"
+    },
+    {
+      "question": "What is the capital city of Ukraine?",
+      "level": "easy",
+      "options": ["Kyiv", "Moscow", "Warsaw", "Budapest"],
+      "answer": "Kyiv"
+    },
+    {
+      "question": "Which space agency launched the Artemis mission to the Moon?",
+      "level": "easy",
+      "options": ["NASA", "ESA", "ISRO", "Roscosmos"],
+      "answer": "NASA"
+    },
+    {
+      "question": "Who won the 2024 FIFA Euro Cup?",
+      "level": "easy",
+      "options": ["Germany", "France", "Italy", "Spain"],
+      "answer": "Germany"
+    },
+    {
+      "question": "Which country is the largest producer of solar energy in 2024?",
+      "level": "easy",
+      "options": ["China", "USA", "India", "Germany"],
+      "answer": "China"
+    },
+    {
+      "question": "What is the name of the new global climate pact signed in 2024?",
+      "level": "easy",
+      "options": ["Paris Agreement", "Glasgow Pact", "Kyoto Protocol", "Earth Accord"],
+      "answer": "Earth Accord"
+    },
+    {
+      "question": "Who is the current Prime Minister of the UK in 2025?",
+      "level": "easy",
+      "options": ["Boris Johnson", "Rishi Sunak", "Theresa May", "David Cameron"],
+      "answer": "Rishi Sunak"
+    },
+    {
+      "question": "Which country invaded Ukraine in 2022?",
+      "level": "medium",
+      "options": ["Russia", "Poland", "Belarus", "Turkey"],
+      "answer": "Russia"
+    },
+    {
+      "question": "What global issue did COP29 focus on in 2024?",
+      "level": "medium",
+      "options": ["Climate change mitigation", "Global trade reform", "Digital privacy", "Space exploration"],
+      "answer": "Climate change mitigation"
+    },
+    {
+      "question": "Who is the head of the European Central Bank as of 2025?",
+      "level": "medium",
+      "options": ["Christine Lagarde", "Mario Draghi", "Angela Merkel", "Ursula von der Leyen"],
+      "answer": "Christine Lagarde"
+    },
+    {
+      "question": "Which country launched its first fully electric passenger aircraft in 2024?",
+      "level": "medium",
+      "options": ["USA", "Germany", "China", "France"],
+      "answer": "Germany"
+    },
+    {
+      "question": "What is the name of the largest cryptocurrency as of 2025?",
+      "level": "medium",
+      "options": ["Ethereum", "Bitcoin", "Dogecoin", "Tether"],
+      "answer": "Bitcoin"
+    },
+    {
+      "question": "Which country led the development of fusion energy projects in 2024?",
+      "level": "medium",
+      "options": ["South Korea", "USA", "Japan", "China"],
+      "answer": "South Korea"
+    },
+    {
+      "question": "What major natural disaster occurred in Indonesia in 2024?",
+      "level": "medium",
+      "options": ["Earthquake", "Flood", "Tsunami", "Volcanic eruption"],
+      "answer": "Volcanic eruption"
+    },
+    {
+      "question": "Which African country discovered significant oil reserves in 2024?",
+      "level": "medium",
+      "options": ["Nigeria", "Kenya", "Mozambique", "Ghana"],
+      "answer": "Mozambique"
+    },
+    {
+      "question": "What is the focus of the UN Sustainable Development Goals by 2030?",
+      "level": "medium",
+      "options": ["End poverty", "Space colonization", "Artificial Intelligence", "Nuclear disarmament"],
+      "answer": "End poverty"
+    },
+    {
+      "question": "Which tech CEO announced retirement in 2024?",
+      "level": "medium",
+      "options": ["Elon Musk", "Jeff Bezos", "Tim Cook", "Sundar Pichai"],
+      "answer": "Jeff Bezos"
+    },
+    {
+      "question": "What international event did India host in 2024?",
+      "level": "hard",
+      "options": ["G20 Summit", "COP28", "Olympics", "World Expo"],
+      "answer": "G20 Summit"
+    },
+    {
+      "question": "Which country successfully tested a hypersonic missile in 2024?",
+      "level": "hard",
+      "options": ["Russia", "China", "USA", "India"],
+      "answer": "China"
+    },
+    {
+      "question": "What breakthrough was achieved in quantum computing in 2024?",
+      "level": "hard",
+      "options": ["Quantum supremacy", "Stable qubits at room temperature", "First quantum internet", "Quantum encryption breakthrough"],
+      "answer": "Stable qubits at room temperature"
+    },
+    {
+      "question": "Who won the Nobel Peace Prize in 2024?",
+      "level": "hard",
+      "options": ["Malala Yousafzai", "Greta Thunberg", "Abiy Ahmed", "Humanitarian Organization"],
+      "answer": "Humanitarian Organization"
+    },
+    {
+      "question": "Which country passed a major law on AI regulation in 2024?",
+      "level": "hard",
+      "options": ["European Union", "USA", "China", "Japan"],
+      "answer": "European Union"
+    },
+    {
+      "question": "Which space telescope was launched in 2024?",
+      "level": "hard",
+      "options": ["James Webb Space Telescope", "Nancy Grace Roman Space Telescope", "Hubble Space Telescope", "Chandra X-ray Observatory"],
+      "answer": "Nancy Grace Roman Space Telescope"
+    },
+    {
+      "question": "Which city became the first to implement 6G network commercially in 2024?",
+      "level": "hard",
+      "options": ["Seoul", "New York", "Tokyo", "Berlin"],
+      "answer": "Seoul"
+    },
+    {
+      "question": "Which country achieved the highest economic growth rate in 2024?",
+      "level": "hard",
+      "options": ["India", "China", "Vietnam", "Bangladesh"],
+      "answer": "Vietnam"
+    }
+  ]
+  }
+}
+
+
